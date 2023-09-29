@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Gokul Elumalai
-![Backend Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend Engineering](https://github.com/gokul-elumalai/gokul-elumalai/blob/main/banner.png)
 
 I'm a backend engineer from India with 6 years of experience.
 
