@@ -1,8 +1,7 @@
-### Gokul Elumalai
-#### Backend Engineering
+### Hi 👋, I'm Gokul Elumalai
 ![Backend Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Gokul from India. I'm a backend engineer with 6 years of experience.
+I'm a backend engineer from India with 6 years of experience.
 
 Skills: Python / Scala / ML
 
@@ -12,8 +11,7 @@ Skills: Python / Scala / ML
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokul-elumalai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-elumalai)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-elumalai&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true&theme=dark)  
 
 
