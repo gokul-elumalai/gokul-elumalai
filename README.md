@@ -1,4 +1,4 @@
-### Hi 👋, I'm Gokul Elumalai 
+### Hi 👋, I'm Gokul 
 <img src="https://komarev.com/ghpvc/?username=gokul-elumalai&style=flat-square&color=blue" alt=""/>
 
 ![Backend Engineering](https://github.com/gokul-elumalai/gokul-elumalai/blob/main/banner.png)
