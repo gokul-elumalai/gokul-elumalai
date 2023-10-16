@@ -6,8 +6,8 @@
 ---
 
 ### About me
-- 👨‍💻 I'm a backend engineer from India with 6 years of experience.
-- 💻 Currently, I'm working as a Python and Scala developer to develop robust web applications.
+- 👨‍💻 I'm a Software Developer from India with 6 years of experience.
+- 💻 Currently, I'm working as a Python and Scala developer to develop web applications.
 
 
 ---
