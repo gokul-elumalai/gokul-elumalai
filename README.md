@@ -6,7 +6,7 @@
 ---
 
 ### About me
-- 👨‍💻 I'm a Software Developer from India with 6 years of experience.
+- 👨‍💻 I'm a Software Developer from India.
 - 💻 Currently, I'm working as a Python and Scala developer to develop web applications.
 
 
