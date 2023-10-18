@@ -6,8 +6,8 @@
 ---
 
 ### About me
-- 👨‍💻 I'm a Software Developer from India.
-- 💻 Currently, I'm working as a Python and Scala developer to develop web applications.
+- 👨‍💻 I'm a Software Engineer from India.
+- 💻 I help build Machine learning-powered applications using Python and Scala.
 
 
 ---
