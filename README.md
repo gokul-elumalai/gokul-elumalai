@@ -5,7 +5,7 @@
 
 ---
 
-### About me
+### About me :
 - 👨‍💻 I'm a Software Engineer from India.
 - 💻 I help build Machine learning-powered applications using Python and Scala.
 
