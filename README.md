@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Gokul 
 <img src="https://komarev.com/ghpvc/?username=gokul-elumalai&style=flat-square&color=blue" alt=""/>
 
-![Backend Engineering](https://github.com/gokul-elumalai/gokul-elumalai/blob/main/banner.png)
+![White Minimalist Profile LinkedIn Banner](https://github.com/gokul-elumalai/gokul-elumalai/assets/40486035/7808513a-2491-48f8-a8f8-a65aba6657c1)
+
 
 ---
 
