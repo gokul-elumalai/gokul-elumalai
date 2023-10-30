@@ -8,7 +8,7 @@
 
 ### 🧑‍🦱 About me :
 - 👨‍💻 I'm a Software Engineer from India.
-- 💻 I develop and maintain Machine learning-powered applications using Python and Scala.
+- 💻 I develop and maintain Machine learning-powered applications.
 
 
 
