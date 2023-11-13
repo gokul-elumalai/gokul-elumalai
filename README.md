@@ -8,7 +8,7 @@
 
 ### 🧑‍🦱 About me :
 - 👨‍💻 I'm a Software Engineer from India.
-- 💻 I help to develop backend applications.
+- 💻 I help develop backend applications.
 
 
 
