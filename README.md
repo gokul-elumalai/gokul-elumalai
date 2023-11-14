@@ -15,7 +15,7 @@
 
 ---
 
-## :hammer_and_wrench: Tech Stack I've used :
+## :hammer_and_wrench: Tech Stack I use :
 
 ### Languages :
 
