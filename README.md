@@ -50,13 +50,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokul-elumalai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gokul-elumalai&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-elumalai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true&theme=dark)  
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gokul-elumalai/langs)](https://githubtrends.io)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gokul-elumalai&theme=dark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true&theme=dark)  
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gokul-elumalai/langs?time_range=one_year&theme=dark)](https://githubtrends.io) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-elumalai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 📬 How to reach me :
