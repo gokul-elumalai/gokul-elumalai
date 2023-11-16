@@ -52,7 +52,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gokul-elumalai&theme=dark)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true&theme=dark)  
 
-![GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul-elumalai&theme=gruvbox)  
+![GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul-elumalai&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-elumalai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
