@@ -56,6 +56,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-elumalai&show_icons=true&theme=dark)  
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gokul-elumalai/langs)](https://githubtrends.io)
+
 ---
 ## 📬 How to reach me :
 
