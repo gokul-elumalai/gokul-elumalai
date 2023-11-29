@@ -8,9 +8,10 @@
 ---
 
 ## 🧑‍🦱 About me :
-- 👨‍💻 I'm a Software Engineer from India.
-- 💻 I develop and maintain backend applications.
-
+- 👨‍💻 I'm a Software Engineer with 5+ years of experience in building backend applications and data analysis.
+- 👨‍🎓 I did a diploma in Data Science from Great Learning
+- 👨‍🎓 I'm pursuing my Masters in Computer Science(Distance) via Anna University, Guindy
+- 💼 I previously worked at Infosys Ltd and Buddi.ai
 
 
 ---
