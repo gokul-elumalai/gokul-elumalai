@@ -16,7 +16,7 @@
 
 ---
 
-## :hammer_and_wrench: Tech Stack I use :
+## 🛠️ Tech Stack I use :
 
 ### Languages :
 
@@ -47,7 +47,7 @@
 
 ---
 
-## :fire: My GitHub Stats :
+## 🔥 My GitHub Stats :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokul-elumalai)](https://github.com/ryo-ma/github-profile-trophy)
 
