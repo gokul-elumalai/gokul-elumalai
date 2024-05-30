@@ -35,7 +35,10 @@
 </div>
 
 ### Frameworks and Tools :
-<div>
+<div> 
+
+<img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23F8F8F8" title="Django" color="white" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://devicon-website.vercel.app/api/spring/original.svg" title="Spring Boot" color="white" alt="Spring Boot" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"  title="Grafana"  alt="Grafana" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"   title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git" width="40" height="40"  />   
