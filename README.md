@@ -9,7 +9,7 @@
 
 ## 🧑‍🦱 About me :
 - 👨‍💻 I'm a Software Engineer with 5+ years of experience building backend applications and data analysis.
-- 👨‍🎓 I'm pursuing my **Masters in Computer Science** via Anna University Distance Education, Guind.
+- 👨‍🎓 I'm pursuing my **Masters in Computer Science** via Anna University - Centre for Distance Education, Guindy.
 - 👨‍🎓 I'm doing a **Software Engineering degree** from Scaler Academy.
 - 👨‍🎓 I graduated with a Data Science diploma from Great Learning.
 - 💼 I've previously worked at Infosys Ltd. and Buddi AI.
