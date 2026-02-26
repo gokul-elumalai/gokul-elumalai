@@ -36,7 +36,8 @@
 
 ### Frameworks and Tools :
 <div> 
-
+<img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FAFAFA" title="Flask" color="white" alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://devicon-website.vercel.app/api/fastapi/original.svg" title="Fast API" color="white" alt="Fast API" width="40" height="40"/>&nbsp;
 <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23F8F8F8" title="Django" color="white" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://devicon-website.vercel.app/api/spring/original.svg" title="Spring Boot" color="white" alt="Spring Boot" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"  title="Grafana"  alt="Grafana" width="40" height="40"/>&nbsp;
